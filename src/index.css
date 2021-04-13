@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.center_div {
+  margin: 0 auto;
+  margin-top: 80px;
+  width: 280px;
+  height: 500px;
+  background-color: cornsilk;
+  border-radius: 15px;
+  border: 1.5px solid black;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+h1 {
+  text-align: center;
+  background-color: rgb(10, 10, 10);
+  font-size: 2rem;
+  color: white;
+}
+
+input {
+  text-align: center;
+  margin-left: 15px;
+  padding-left: 25px;
+  height: 35px;
+  border-radius: 15px;
+}
+
+button {
+  margin-left: 10px;
+  font-size: small;
+  height: 30px;
+  border-radius: 7px;
+  cursor: pointer;
+}
